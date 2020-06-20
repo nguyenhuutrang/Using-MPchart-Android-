@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686772996611",
+    "firebase_url": "https://lm75-a9a1d.firebaseio.com",
+    "project_id": "lm75-a9a1d",
+    "storage_bucket": "lm75-a9a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686772996611:android:b808648651374fd5bb1c36",
+        "android_client_info": {
+          "package_name": "com.android.lm75app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686772996611-lqm8don72muos5a3utrpu1uklkm2gh1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.lm75app",
+            "certificate_hash": "875b45ca9affa242fb9e9588c03f0d1455f4b56e"
+          }
+        },
+        {
+          "client_id": "686772996611-uqn4cba9s3u44ep5h27p0agca4i9h653.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55VJa-hy17mwaSSEnPdwxOFhVXT1Hh5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686772996611-uqn4cba9s3u44ep5h27p0agca4i9h653.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
